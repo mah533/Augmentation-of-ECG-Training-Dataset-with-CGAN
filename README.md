@@ -12,6 +12,7 @@ please cite as:
   year={2022}  
 }
 
-link to the MITBIH dataset file on Google Drive:
+link to the MITBIH dataset file ("record_X_y_adapt_win_bef075_aft075_Normalized.json") on Google Drive:
+
 https://drive.google.com/file/d/1d2gUuhJeWwVtKfzPbZx9gJgeBhXp3ibb/view?usp=sharing
 
