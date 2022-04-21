@@ -1,6 +1,6 @@
 Paper: Arrhythmia Classification using CGAN-augmented ECG Signals
 
-link to arXiv: https://arxiv.org/abs/2202.00569
+arXiv: https://arxiv.org/abs/2202.00569
 
 please cite as:
 
