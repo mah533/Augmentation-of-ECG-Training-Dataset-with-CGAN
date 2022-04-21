@@ -16,5 +16,5 @@ download the MITBIH dataset file ("**_record_X_y_adapt_win_bef075_aft075_Normali
 
 https://drive.google.com/file/d/1d2gUuhJeWwVtKfzPbZx9gJgeBhXp3ibb/view?usp=sharing
 
-raw signals are segmented according to an adaptive window scheme: heart rate (R-R distance) is calculated at each beat and 75% of the distance before and after each R-peak are used as the cutoffs for segmentations. The individual beats are put in a dictionary. The _keys_ are the record numbers and the _values_ are lists of segmented beats. 
+raw signals (from PhysioNet website https://physionet.org/content/mitdb/1.0.0/) are segmented according to an adaptive window scheme: heart rate (R-R distance) is calculated at each beat and 75% of the distance before and after each R-peak are used as the cutoffs for segmentations. The individual beats are put in a dictionary. The _keys_ are the record numbers and the _values_ are lists of segmented beats. 
 
