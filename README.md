@@ -12,7 +12,7 @@
 
 the read/save paths in the file ("**_main_ac_wgan_gp_ecg.py_**") should adjusted according to your filing system
 
-download the MITBIH dataset file ("**_record_X_y_adapt_win_bef075_aft075_Normalized.json_**") from Google Drive via the following link nd place it in the proper folder accordingly:
+download the MITBIH dataset file ("**_record_X_y_adapt_win_bef075_aft075_Normalized.json_**") from Google Drive via the following link and place it in the proper folder accordingly:
 
 https://drive.google.com/file/d/1d2gUuhJeWwVtKfzPbZx9gJgeBhXp3ibb/view?usp=sharing
 
