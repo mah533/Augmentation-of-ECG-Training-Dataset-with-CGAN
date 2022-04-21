@@ -12,6 +12,8 @@ please cite as:
   year={2022}  
 }
 
+the read/ save paths in the file ("main_ac_wgan_gp_ecg.py") should adjusted according to your filing system
+
 link to the MITBIH dataset file ("record_X_y_adapt_win_bef075_aft075_Normalized.json") on Google Drive:
 
 https://drive.google.com/file/d/1d2gUuhJeWwVtKfzPbZx9gJgeBhXp3ibb/view?usp=sharing
