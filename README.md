@@ -2,7 +2,7 @@ Paper: Arrhythmia Classification using CGAN-augmented ECG Signals
 
 arXiv: https://arxiv.org/abs/2202.00569
 
-please cite as:
+please cite as:       
 @article{adib2022arrhythmia,       
   title={Arrhythmia Classification using CGAN-augmented ECG Signals},  
   author={Adib, Edmond and Afghah, Fatemeh and Prevost, John J},  
