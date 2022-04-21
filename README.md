@@ -8,8 +8,7 @@ please cite as:
   title={Arrhythmia Classification using CGAN-augmented ECG Signals},  
   author={Adib, Edmond and Afghah, Fatemeh and Prevost, John J},  
   journal={arXiv preprint arXiv:2202.00569},  
-  year={2022}
-  
+  year={2022}  
 }
 
 link to the MITBIH dataset file on Google Drive:
