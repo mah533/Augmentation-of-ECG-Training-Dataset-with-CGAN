@@ -60,7 +60,9 @@ def dicts():
 
     :returns: 4 dictionaries
     """
-
+    # with open('label_descr.txt', 'rb') as f:
+    #    label_descr_list = pickle.load(f)
+    
     with open('label_descr_json.txt', 'rb') as f:
         label_descr_list = json.load(f)
     '''
