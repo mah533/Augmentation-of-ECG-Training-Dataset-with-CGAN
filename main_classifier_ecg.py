@@ -3,9 +3,6 @@ this is a classifier
 input is the normalized ECG vector
 output is the class of the ECG
 
-adapted from https://www.youtube.com/watch?v=Jy4wM2X21u0
-YT, by Aladdin Personn, 2020
-
 """
 import copy
 import csv
