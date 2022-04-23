@@ -1,5 +1,5 @@
 """
-Codes for: YT, "WGAN implementation from scratch (with gradient penalty)" by Aladdin Persson
+
 """
 import copy
 import csv
