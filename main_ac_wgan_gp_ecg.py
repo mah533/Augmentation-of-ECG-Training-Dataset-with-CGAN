@@ -1,5 +1,5 @@
 """
-Codes for: YT, "Pytorch Conditional GAN Tutorial" by Aladdin Persson
+
 """
 import copy
 import csv
