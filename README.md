@@ -20,3 +20,5 @@ raw signals (from PhysioNet website https://physionet.org/content/mitdb/1.0.0/) 
 
 link to all data in MITBIH Arhythmia dataset in 'dictionary' format: https://drive.google.com/file/d/1mVzEMRCzA-j3CFEgOvqGSQcQAbg0Gz4N/view?usp=drive_link
 
+link to the 7 classes of real data used in this study: https://drive.google.com/file/d/1h0TtJAvJJK3IwDbqzK6pLKVBQw5VpvDL/view?usp=drive_link
+
