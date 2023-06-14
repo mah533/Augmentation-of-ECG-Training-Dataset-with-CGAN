@@ -18,3 +18,5 @@ https://drive.google.com/file/d/1d2gUuhJeWwVtKfzPbZx9gJgeBhXp3ibb/view?usp=shari
 
 raw signals (from PhysioNet website https://physionet.org/content/mitdb/1.0.0/) are segmented according to an adaptive window scheme: heart rate (R-R distance) is calculated at each beat and 75% of the distance before and after each R-peak are used as the cutoffs for segmentations. The individual beats are put in a dictionary. The _keys_ are the record numbers and the _values_ are lists of segmented beats. 
 
+link to all data in MITBIH Arhythmia dataset in 'dictionary' format: https://drive.google.com/file/d/1mVzEMRCzA-j3CFEgOvqGSQcQAbg0Gz4N/view?usp=drive_link
+
